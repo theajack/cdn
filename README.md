@@ -1,6 +1,6 @@
 # CDN
 
-使用 Github，jsDelivr， TravisCI 搭建一个轻量靠谱的 CDN。
+使用 Github，jsDelivr， TravisCI 搭建一个轻量靠谱的 CDN
 
 ## 实现原理
 
