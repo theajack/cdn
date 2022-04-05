@@ -1,4 +1,4 @@
-// 统计代码
+// 友盟站点统计代码
 (function(){
     var id = "1281058979";
     var script = document.createElement("script");
