@@ -30,3 +30,8 @@ jobs:
         #   disable-autolabeler: true
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+template: |
+  ## What’s Changed
+
+  $CHANGES
