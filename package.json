@@ -1,20 +1,19 @@
 {
   "name": "cdn",
-  "version": "0.0.11",
-  "description": "Github 做 CDN 存储，jsDelivr 做 CDN 服务器",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "使用 Github，jsDelivr，Github actions 搭建一个轻量靠谱的 CDN",
+  "main": "",
   "scripts": {
-    "test": "exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ccbikai/cdn.git"
+    "url": "git+https://github.com/theajack/cdn.git"
   },
   "keywords": [],
-  "author": "ccbikai <ccbikai@qq.com> (http://miantiao.me/)",
+  "author": "theajack <theajack@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ccbikai/cdn/issues"
+    "url": "https://github.com/theajack/cdn/issues"
   },
-  "homepage": "https://github.com/ccbikai/cdn#readme"
+  "homepage": "https://github.com/theajack/cdn#readme"
 }
