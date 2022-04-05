@@ -4,7 +4,6 @@
   "description": "使用 Github，jsDelivr，Github actions 搭建一个轻量靠谱的 CDN",
   "main": "",
   "scripts": {
-    "purge": "node ./helper/purge.js"
   },
   "repository": {
     "type": "git",

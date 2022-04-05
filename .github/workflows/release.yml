@@ -20,4 +20,4 @@ jobs:
           registry-url: https://registry.npmjs.org
 
       - name: purge cdn
-        run: npm run purge
+        run: node ./helper/purge.js
