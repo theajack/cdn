@@ -1,6 +1,4 @@
-# CDN
-
-使用 Github，jsDelivr，Github actions 搭建一个轻量靠谱的 CDN
+# CDN (个人学习使用)
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/theajack/cdn/{path}"></script>
@@ -8,4 +6,8 @@
 
 ```html
 <script src="https://shiyix.cn/cdn/{path}"></script>
+```
+
+```html
+<script src="https://theajack.github.io/cdn/{path}"></script>
 ```
